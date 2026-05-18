@@ -4,12 +4,6 @@
   Smart productivity & life management Flutter application
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-App-blue?style=for-the-badge&logo=flutter"/>
-  <img src="https://img.shields.io/badge/Dart-Language-0175C2?style=for-the-badge&logo=dart"/>
-  <img src="https://img.shields.io/badge/Firebase-Backend-orange?style=for-the-badge&logo=firebase"/>
-</p>
-
 ---
 
 # 📱 App Screenshots
