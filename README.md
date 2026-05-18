@@ -6,17 +6,6 @@
 
 ---
 
-# 📱 App Screenshots
-
-# 📱 App Screenshots
-
-<p align="center">
-  <img src="WhatsApp%20Image%202026-05-18%20at%205.30.03%20PM.jpeg" height="500"/>
-
-  <img src="WhatsApp%20Image%202026-05-18%20at%205.30.03%20PM%20(1).jpeg" height="500"/>
-</p>
----
-
 # ✨ Features
 
 ✅ Task Management  
