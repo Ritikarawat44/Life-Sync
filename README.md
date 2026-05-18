@@ -1,17 +1,23 @@
-# major_project
+# Life Sync App 🚀
 
-A new Flutter project.
+A smart productivity and life management Flutter application.
 
-## Getting Started
+## 📱 Screenshots
 
-This project is a starting point for a Flutter application.
+![Home Screen](WhatsApp%20Image%202026-05-18%20at%205.30.03%20PM.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
+![Second Screen](WhatsApp%20Image%202026-05-18%20at%205.30.03%20PM%20(1).jpeg)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## ✨ Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Task Management
+- Clean UI
+- Flutter Based App
+- Productivity Tracking
+
+## 🛠️ Tech Stack
+
+- Flutter
+- Dart
+- Firebase
+- GCloud
